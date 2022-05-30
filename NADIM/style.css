@@ -1,0 +1,50 @@
+header {
+    background-color: yellow;
+    height: 70px;
+    width: auto;
+}
+
+.p-1 {
+    background-color: black;
+    color: red;
+    word-spacing: 50px;
+}
+
+.p-2 {
+    background-color: #007F82;
+    word-spacing: 30px;
+}
+
+section {
+    background-color: #7F8000;
+    height: 400px;
+    width: auto;
+}
+
+.s-1 {
+    background-color: #808080;
+    color: aliceblue;
+    text-align: justify;
+    letter-spacing: 3px;
+}
+
+.s-2 {
+    background-color: #0102FC;
+    color: #D696BE;
+    text-align: justify;
+    word-spacing: 50px;
+}
+
+.s-3 {
+    background-color: #FFC0CB;
+    color: black;
+    text-align: justify;
+    word-spacing: 50px;
+    text-decoration: solid;
+}
+
+.s-4 {
+    background-color: #007F01;
+    color: black;
+    line-height: 40px;
+}
