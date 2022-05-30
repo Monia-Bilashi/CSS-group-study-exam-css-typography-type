@@ -1,0 +1,60 @@
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+
+h1 {
+    background-color: black;
+    color: red;
+}
+
+h2 {
+    background-color: teal;
+    color: black;
+}
+
+header {
+    background-color: yellow;
+}
+
+body {
+    background-color: yellow;
+}
+
+main {
+    background-color: olive;
+}
+
+.p-1 {
+    background-color: gray .7;
+    text-align: justify;
+    color: white;
+    text-transform: uppercase;
+}
+
+.p-2 {
+    background-color: blue;
+    text-transform: capitalize;
+    text-shadow: 3px 2px;
+    font-size: 25px;
+    font-weight: 900;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+.p-3 {
+    background-color: pink;
+    text-align: right;
+    text-decoration: line-through;
+    text-transform: lowercase;
+}
+
+.p-4 {
+    background-color: green;
+    color: black;
+    text-align: justify;
+}
+
+div {
+    background-color: green;
+}
