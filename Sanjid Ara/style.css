@@ -1,0 +1,43 @@
+            header {
+                background-color: yellow;
+                height: 130px;
+                padding: 1px;
+            }
+            
+            h1 {
+                background-color: black;
+                color: red;
+                word-spacing: 60px;
+            }
+            
+            h2 {
+                background-color: rgb(55, 93, 105);
+                color: black;
+                word-spacing: 50px;
+            }
+            
+            body {
+                background-color: olivedrab;
+            }
+            
+            .p-1 {
+                background-color: rgb(114, 111, 111);
+                color: white;
+                letter-spacing: 5px;
+                text-transform: capitalize;
+            }
+            
+            .p-2 {
+                background-color: rgb(26, 26, 100);
+                color: pink;
+            }
+            
+            .p-3 {
+                background-color: pink;
+                color: rgb(61, 16, 16);
+            }
+            
+            .p-4 {
+                background-color: darkgreen;
+                color: black;
+            }
