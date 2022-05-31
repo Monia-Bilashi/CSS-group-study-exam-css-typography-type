@@ -1,0 +1,81 @@
+body {
+    background: yellow;
+    margin: 0px;
+    padding: 0px;
+}
+
+.h1 {
+    color: red;
+    background: black;
+    word-spacing: 100px;
+}
+
+.h2 {
+    color: black;
+    background: teal;
+    word-spacing: 50px
+}
+
+.div {
+    background: olive;
+    padding: 50px;
+}
+
+.p1 {
+    color: white;
+    background: gray;
+    font-size: 20px;
+    text-align: left;
+    text-decoration: underline;
+    padding: 20px;
+    font-style: italic;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+}
+
+.p2 {
+    color: orange;
+    background: blue;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    letter-spacing: 15px;
+    text-transform: lowercase;
+}
+
+.p3 {
+    color: black;
+    background: pink;
+    font-size: 20px;
+    text-align: right;
+    text-decoration: underline;
+    padding: 20px;
+    font-style: italic;
+    letter-spacing: 1px;
+    text-transform: sentenccase;
+}
+
+.p4 {
+    color: black;
+    background: green;
+    font-size: 20px;
+    text-align: justify;
+    text-decoration: none;
+    padding: 20px;
+    line-height: 200px;
+    text-transform: capitalize;
+}
+
+.class {
+    text-decoration: none;
+    color: red;
+}
+
+.h3 {
+    color: red;
+}
+
+.h3 a {
+    text-decoration: none;
+}
