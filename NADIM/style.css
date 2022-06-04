@@ -1,50 +1,86 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
 header {
     background-color: yellow;
-    height: 70px;
-    width: auto;
+    height: 150px;
+    width: 100%;
+}
+
+body {
+    background-color: #5b383e;
 }
 
 .p-1 {
     background-color: black;
     color: red;
-    word-spacing: 50px;
+    word-spacing: 60px;
+    font: bold;
+    font-size: 20px;
+    padding: 10px;
+    width: 90%;
+    margin: auto;
 }
 
 .p-2 {
     background-color: #007F82;
+    color: black;
     word-spacing: 30px;
+    height: 20px;
+    padding: 20px;
+    margin: 10px auto;
+    width: 90%;
 }
 
-section {
+main {
     background-color: #7F8000;
-    height: 400px;
-    width: auto;
+    width: 100%;
+    margin: 50px auto;
 }
 
 .s-1 {
-    background-color: #808080;
-    color: aliceblue;
-    text-align: justify;
-    letter-spacing: 3px;
+    background-color: #D696BE;
+    color: rgb(3, 23, 23);
+    letter-spacing: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 90%;
 }
 
 .s-2 {
     background-color: #0102FC;
     color: #D696BE;
-    text-align: justify;
-    word-spacing: 50px;
+    letter-spacing: 20px;
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+    text-transform: uppercase;
 }
 
 .s-3 {
     background-color: #FFC0CB;
     color: black;
-    text-align: justify;
-    word-spacing: 50px;
-    text-decoration: solid;
+    text-align: right;
+    text-decoration: underline;
+    text-decoration: line-through;
+    padding: 20px;
+    margin: auto;
+    width: 90%;
 }
 
 .s-4 {
     background-color: #007F01;
     color: black;
-    line-height: 40px;
+    line-height: 80px;
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+}
+
+footer .f-1 {
+    background-color: yellow;
+    height: 30px;
+    width: 100%;
 }
